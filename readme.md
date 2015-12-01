@@ -1,22 +1,13 @@
----
-title: Angular $http
-type: Lab
-duration: "1:25"
-creator:
-    name: Micah Rich
-    city: LA
-competencies: Front-end frameworks
----
 
 # Angular $http
 
 ## Introduction
 
-Based on our experience in the last lesson using $http to access APIs in Angular, your task is to build something _just_ like what we built together - but on your own.
+Based on our experience using $http to access APIs in Angular, your task is to build something _just_ like what we built together - but extend it on your own.
 
 Starting from scratch is important practice and having to build the entire Angular app from nothing will help reinforce what pieces you need and how they connect.
 
-Now, the fun part. You'll be working on an interface for our **Infamous Criminals™** API – a database to store & categorize history's most well-known wrong-doers. The API already exists, but we desperately need your help creating an Angular application to add criminals to our database, delete them when they've gone straight, and time permitting, update their information when their whereabouts change.
+Now, the fun part. You'll be working on an interface for an **Infamous Criminals™** API – a database to store & categorize history's most well-known wrong-doers. The API already exists, but we desperately need your help creating an Angular application to add criminals to our database, delete them when they've gone straight, and time permitting, update their information when their whereabouts change.
 
 
 ## Exercise
